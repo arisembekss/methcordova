@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_30c1282d50548f1ee2fdf10523a925f5cfcccd0c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_900765187657b01e56843b3c1378a4fff3336e20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/cordova-generic-ad_19588de7a2fec2ef8cfc6fac07b80a0554fadd8d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/debug_0d2d00719f8cfc8b864a83ff4efbb4b12b7a1fb7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_b659d7e7a7bc09fbfed848d94ee427ee4f343402.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_dc8abfc7ab8640799f574a106a8a6ce11833d618.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_eaa33eb9d21963c0db7318e62ba28d88c44fb7ef.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_b2c4c374c198878cbf83e0d8206cc7b0d7592503.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.1.0_16f2f2ffcfaaba48ff7083a98ddc36559bbe2a22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
